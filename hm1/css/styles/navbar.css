@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    background-color: rgba(16, 1, 83, 0.548);
+    font-size: 2em;
+    height: 3em;    
+}
+.navlist a{
+    display: block;
+    padding: 1em;
+    text-decoration: none;  
+    color: white;
+    padding: 0.5em;
+}   
+.navlist {
+    display: flex;
+    height: 100%;
+}
+.navlist a:hover {
+    background-color: rgba(55, 42, 173, 0.589);
+}
+    
